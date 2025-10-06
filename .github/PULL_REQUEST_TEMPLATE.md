@@ -1,8 +1,8 @@
 ## Ne yaptım
-Kısa açıklama
+Short Descrip.
 
 ## Nasıl test ederim
-Adımlar
+Steps
 
 ## Kabul kriterleri
 - [ ] ...
