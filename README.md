@@ -33,7 +33,7 @@ open-library/
 └─ README.md
 
 
-# 📚 Open Digital Library - MVP
+#  Open Digital Library - MVP
 
 ##  Project Goal
 MVP’s purpose is to deliver the **core functionality** of the platform:
