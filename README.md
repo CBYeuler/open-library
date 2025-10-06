@@ -31,3 +31,15 @@ open-library/
 │  └─ roadmap.md
 ├─ .gitignore
 └─ README.md
+
+
+# 📚 Open Digital Library - MVP
+
+##  Project Goal
+MVP’s purpose is to deliver the **core functionality** of the platform:
+- User **registration & login**
+- Ability to **upload PDF files**
+- A **public library** where uploaded PDFs are listed and downloadable
+- Basic **chat room creation** and messaging
+
+This MVP is the foundation for the larger vision: a modern **Open Digital Library (Digital Alexandria)**.
