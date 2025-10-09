@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-sqlmodel
-alembic
-psycopg2-binary
-python-multipart
-boto3
-python-jose[cryptography]
-passlib[bcrypt]
