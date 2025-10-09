@@ -1,0 +1,12 @@
+name: CI
+on: [pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with: python-version: '3.11'
+      - name: Install deps placeholder
+        run: echo "Add tests later"
